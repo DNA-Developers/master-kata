@@ -22,7 +22,7 @@ export class AdvanceReviewPage implements OnInit {
   ngOnInit() {
     this.getData.getAllData().subscribe(data => {
       this.characters = data;
-      this.a = this.characters.slice(46,105);
+      this.a = this.characters.slice(46, 108);
       this.list = [this.a[0]];
       this.loaded = true;
     });
@@ -71,7 +71,7 @@ export class AdvanceReviewPage implements OnInit {
       } else {
         this.incorrect = false;
         this.list = [this.a[this.counter]];
-        this.value = this.value + 0.017;
+        this.value = this.value + 0.016;
         this.show = String(this.value);
       }
     }
