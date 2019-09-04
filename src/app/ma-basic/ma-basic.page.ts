@@ -31,8 +31,8 @@ export class MaBasicPage implements OnInit {
   }
   playSound(){
     this.front = null;
-    this.snd = new Audio(`../../assets/${this.list[0]['romanji']}(hiragana).mp3`)
-    this.snd.play()
+    this.snd = new Audio(`../../assets/${this.list[0]['romanji']}(hiragana).mp3`);
+    this.snd.play();
   }
 
   next(){

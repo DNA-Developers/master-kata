@@ -37,17 +37,17 @@ export class GyaQuizPage implements OnInit {
   choose(choice, answer, katakana) {
     this.counter++;
     if (this.counter >= this.a.length) {
-      this.results['count']++;
-      if(choice === answer) {
-        this.results['correct']++;
+      this.results.count++;
+      if (choice === answer) {
+        this.results.correct++;
       } else {
-        this.results['incorrect']++;
-        this.results['incorrectRo'].push(answer);
-        this.results['incorrectKatakana'].push(katakana);
+        this.results.incorrect++;
+        this.results.incorrectRo.push(answer);
+        this.results.incorrectKatakana.push(katakana);
       }
       this.value = 1;
       this.show = String(this.value);
-      if(this.counter >= 2) {
+      if (this.counter >= 2) {
         setTimeout(() => {
           this.getData.getAdvancedResults().pop();
           this.getData.getAdvancedResults().push(this.results);
@@ -55,26 +55,18 @@ export class GyaQuizPage implements OnInit {
           this.router.navigate(['/home/tabs/advanced/result']);
         }, 150);
       }
-
-
     } else {
       this.list = [this.a[this.counter]];
       this.value = this.value + 0.33;
       this.show = String(this.value);
-      if(choice === answer) {
-        this.results['correct']++;
+      if (choice === answer) {
+        this.results.correct++;
       } else {
-        this.results['incorrect']++;
-        this.results['incorrectRo'].push(answer);
-        this.results['incorrectKatakana'].push(katakana);
+        this.results.incorrect++;
+        this.results.incorrectRo.push(answer);
+        this.results.incorrectKatakana.push(katakana);
       }
-      this.results['count']++;
+      this.results.count++;
     }
   }
-
-
-
-
-
-
 }

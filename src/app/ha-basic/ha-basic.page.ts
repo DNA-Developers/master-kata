@@ -27,11 +27,11 @@ export class HaBasicPage implements OnInit {
   flip() {
     this.front = !this.front;
   }
-  // playSound(){
-  //   this.front = null;
-  //   this.snd = new Audio(`localhost/${this.list[0]['romanji']}`)
-  //   this.snd.play()
-  // }
+  playSound() {
+    this.front = null;
+    this.snd = new Audio(`../../assets/${this.list[0]["romanji"]}(hiragana).mp3`);
+    this.snd.play();
+  }
   next() {
     this.counter++;
     this.list = [this.a[this.counter]];

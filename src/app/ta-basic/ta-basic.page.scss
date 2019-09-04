@@ -45,12 +45,7 @@ ion-spinner {
   .front {
     transform: perspective(600px) rotateY(0deg);
   }
-  
-  // ion-button{
-  //     position: absolute;
-  //     z-index: 100;
-  // }
-  
+
   .frontCard {
     animation-name: example;
     animation-duration: 0.5s;
@@ -89,10 +84,6 @@ ion-spinner {
   .backFlip {
     transform: perspective(600px) rotateY(0deg);
   }
-  // .card:hover > .back {
-  //     transform:  perspective(600px) rotateY(0deg);
-  // }
-  
   ion-icon {
     font-size: 2.5rem;
   }

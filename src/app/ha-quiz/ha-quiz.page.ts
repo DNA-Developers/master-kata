@@ -68,5 +68,4 @@ export class HaQuizPage implements OnInit {
       this.results['count']++;
     }
   }
-
 }
