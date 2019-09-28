@@ -30,7 +30,7 @@ export class DataService {
             exampleSentence: 'アイスクリーム',
             translation: 'ice cream',
             choices: ['a', 'i', 'u', 'o'],
-            display: ['ア','イ','ウ','オ']
+            display: ['ア', 'イ', 'ウ', 'オ']
         },
         {
             id: 2,
@@ -39,7 +39,7 @@ export class DataService {
             exampleSentence: 'イヤリング',
             translation: 'earring',
             choices: ['e', 'a', 'i', 'o'],
-            display: ['エ','ア','イ','オ']
+            display: ['エ', 'ア', 'イ', 'オ']
         },
         {
             id: 3,
@@ -48,7 +48,7 @@ export class DataService {
             exampleSentence: 'ウィンナー',
             translation: 'wiener',
             choices: ['a', 'i', 'u', 'o'],
-            display: ['ア','イ','ウ','オ']
+            display: ['ア', 'イ', 'ウ', 'オ']
         },
         {
             id: 4,
@@ -57,7 +57,7 @@ export class DataService {
             exampleSentence: 'エプロン',
             translation: 'apron',
             choices: ['a', 'e', 'u', 'o'],
-            display: ['ア','エ','ウ','オ']
+            display: ['ア', 'エ', 'ウ', 'オ']
         },
         {
             id: 5,
@@ -66,7 +66,7 @@ export class DataService {
             exampleSentence: 'オーブン',
             translation: 'oven',
             choices: ['e', 'i', 'a', 'o'],
-            display: ['エ','イ','ア','オ']
+            display: ['エ', 'イ', 'ア', 'オ']
         },
         {
             id: 6,
@@ -75,7 +75,7 @@ export class DataService {
             exampleSentence: 'カレーライス',
             translation: 'curry rice',
             choices: ['ka', 'ki', 'ku', 'ko'],
-            display: ['カ','キ','ク','コ']
+            display: ['カ', 'キ', 'ク', 'コ']
         },
         {
             id: 7,
@@ -84,7 +84,7 @@ export class DataService {
             exampleSentence: 'キウイフルーツ',
             translation: 'kiwi',
             choices: ['ka', 'ki', 'ku', 'ko'],
-            display: ['カ','キ','ク','コ']
+            display: ['カ', 'キ', 'ク', 'コ']
         },
         {
             id: 8,
@@ -93,7 +93,7 @@ export class DataService {
             exampleSentence: 'クリスマス',
             translation: 'christmas',
             choices: ['ku', 'ki', 'ka', 'ko'],
-            display: ['ク','キ','カ','コ']
+            display: ['ク', 'キ', 'カ', 'コ']
         },
         {
             id: 9,
@@ -102,7 +102,7 @@ export class DataService {
             exampleSentence: 'ケーキ',
             translation: 'cake',
             choices: ['ka', 'ke', 'ki', 'ko'],
-            display: ['カ','ケ','キ','コ']
+            display: ['カ', 'ケ', 'キ', 'コ']
         },
         {
             id: 10,
@@ -111,7 +111,7 @@ export class DataService {
             exampleSentence: 'コンピューター',
             translation: 'computer',
             choices: ['ke', 'ka', 'ku', 'ko'],
-            display: ['ケ','カ','ク','コ']
+            display: ['ケ', 'カ', 'ク', 'コ']
         },
         {
             id: 11,
@@ -120,7 +120,7 @@ export class DataService {
             exampleSentence: 'サーカス',
             translation: 'circus',
             choices: ['shi', 'se', 'sa', 'so'],
-            display: ['シ','せ','サ','ソ']
+            display: ['シ', 'せ', 'サ', 'ソ']
         },
         {
             id: 12,
@@ -129,7 +129,7 @@ export class DataService {
             exampleSentence: 'シロップ',
             translation: 'syrup',
             choices: ['se', 'shi', 'su', 'so'],
-            display: ['セ','シ','ス','ソ']
+            display: ['セ', 'シ', 'ス', 'ソ']
         },
         {
             id: 13,
@@ -138,7 +138,7 @@ export class DataService {
             exampleSentence: 'スプーン',
             translation: 'spoon',
             choices: ['su', 'shi', 'se', 'so'],
-            display: ['ス','シ','セ','ソ']
+            display: ['ス', 'シ', 'セ', 'ソ']
         },
         {
             id: 14,
@@ -147,7 +147,7 @@ export class DataService {
             exampleSentence: 'セーター',
             translation: 'sweater',
             choices: ['se', 'su', 'sa', 'so'],
-            display: ['セ','ス','サ','ソ']
+            display: ['セ', 'ス', 'サ', 'ソ']
         },
         {
             id: 15,
@@ -156,7 +156,7 @@ export class DataService {
             exampleSentence: 'ソーダ',
             translation: 'soda',
             choices: ['sa', 'shi', 'su', 'so'],
-            display: ['サ','シ','ス','ソ']
+            display: ['サ', 'シ', 'ス', 'ソ']
         },
         {
             id: 16,
@@ -165,7 +165,7 @@ export class DataService {
             exampleSentence: 'タオル',
             translation: 'towel',
             choices: ['tsu', 'te', 'to', 'ta'],
-            display: ['ツ','テ','ト','タ']
+            display: ['ツ', 'テ', 'ト', 'タ']
         },
         {
             id: 17,
@@ -174,7 +174,7 @@ export class DataService {
             exampleSentence: 'チーズ',
             translation: 'cheese',
             choices: ['tsu', 'chi', 'to', 'ta'],
-            display: ['ツ','チ','ト','タ']
+            display: ['ツ', 'チ', 'ト', 'タ']
         },
         {
             id: 18,
@@ -183,7 +183,7 @@ export class DataService {
             exampleSentence: 'ツイッター',
             translation: 'twitter',
             choices: ['tsu', 'te', 'chi', 'ta'],
-            display: ['ツ','テ','チ','タ']
+            display: ['ツ', 'テ', 'チ', 'タ']
         },
         {
             id: 19,
@@ -192,7 +192,7 @@ export class DataService {
             exampleSentence: 'テーブル',
             translation: 'table',
             choices: ['ta', 'te', 'to', 'chi'],
-            display: ['タ','テ','ト','チ']
+            display: ['タ', 'テ', 'ト', 'チ']
         },
         {
             id: 20,
@@ -201,7 +201,7 @@ export class DataService {
             exampleSentence: 'トースト',
             translation: 'toast',
             choices: ['tsu', 'te', 'to', 'ta'],
-            display: ['ツ','テ','ト','タ']
+            display: ['ツ', 'テ', 'ト', 'タ']
         },
         {
             id: 21,
@@ -210,7 +210,7 @@ export class DataService {
             exampleSentence: 'ナイフ',
             translation: 'knife',
             choices: ['ne', 'nu', 'na', 'no'],
-            display: ['ネ','ヌ','ナ','ノ']
+            display: ['ネ', 'ヌ', 'ナ', 'ノ']
         },
         {
             id: 22,
@@ -219,7 +219,7 @@ export class DataService {
             exampleSentence: 'ニュース',
             translation: 'news',
             choices: ['ne', 'nu', 'na', 'ni'],
-            display: ['ネ','ヌ','ナ','ニ']
+            display: ['ネ', 'ヌ', 'ナ', 'ニ']
         },
         {
             id: 23,
@@ -228,7 +228,7 @@ export class DataService {
             exampleSentence: 'ヌードル',
             translation: 'noodles',
             choices: ['nu', 'ne', 'ni', 'no'],
-            display: ['ヌ','ネ','ニ','ノ']
+            display: ['ヌ', 'ネ', 'ニ', 'ノ']
         },
         {
             id: 24,
@@ -237,7 +237,7 @@ export class DataService {
             exampleSentence: 'ネクタイ',
             translation: 'tie',
             choices: ['ne', 'no', 'na', 'nu'],
-            display: ['ネ','ノ','ナ','ヌ']
+            display: ['ネ', 'ノ', 'ナ', 'ヌ']
         },
         {
             id: 25,
@@ -246,7 +246,7 @@ export class DataService {
             exampleSentence: 'ノート',
             translation: 'notebook',
             choices: ['ne', 'nu', 'na', 'no'],
-            display: ['ネ','ヌ','ナ','ノ']
+            display: ['ネ', 'ヌ', 'ナ', 'ノ']
         },
         {
             id: 26,
@@ -255,7 +255,7 @@ export class DataService {
             exampleSentence: 'ハンバーガー',
             translation: 'hamburger',
             choices: ['ha', 'hi', 'fu', 'he'],
-            display: ['ハ','ヒ','フ','ヘ']
+            display: ['ハ', 'ヒ', 'フ', 'ヘ']
         },
         {
             id: 27,
@@ -264,7 +264,7 @@ export class DataService {
             exampleSentence: 'ヒーター',
             translation: 'heater',
             choices: ['he', 'fu', 'hi', 'ha'],
-            display: ['ヘ','フ','ヒ','ハ']
+            display: ['ヘ', 'フ', 'ヒ', 'ハ']
         },
         {
             id: 28,
@@ -273,7 +273,7 @@ export class DataService {
             exampleSentence: 'フランス',
             translation: 'France',
             choices: ['ha', 'hi', 'he', 'fu'],
-            display: ['ハ','ヒ','ヘ','フ']
+            display: ['ハ', 'ヒ', 'ヘ', 'フ']
         },
         {
             id: 29,
@@ -282,7 +282,7 @@ export class DataService {
             exampleSentence: 'ヘリコプター',
             translation: 'helicopter',
             choices: ['he', 'ho', 'fu', 'ha'],
-            display: ['ヘ','ホ','フ','ハ']
+            display: ['ヘ', 'ホ', 'フ', 'ハ']
         },
         {
             id: 30,
@@ -291,7 +291,7 @@ export class DataService {
             exampleSentence: 'ホットケーキ',
             translation: 'pancakes',
             choices: ['ha', 'hi', 'ho', 'he'],
-            display: ['ハ','ヒ','ホ','ヘ']
+            display: ['ハ', 'ヒ', 'ホ', 'ヘ']
         },
         {
             id: 31,
@@ -300,7 +300,7 @@ export class DataService {
             exampleSentence: 'マクドナルド',
             translation: 'McDonald\'s',
             choices: ['mu', 'ma', 'mi', 'me'],
-            display: ['ム','マ','ミ','メ']
+            display: ['ム', 'マ', 'ミ', 'メ']
         },
         {
             id: 32,
@@ -309,7 +309,7 @@ export class DataService {
             exampleSentence: 'ミント',
             translation: 'mint',
             choices: ['mu', 'me', 'mi', 'mo'],
-            display: ['ム','メ','ミ','モ']
+            display: ['ム', 'メ', 'ミ', 'モ']
         },
         {
             id: 33,
@@ -318,7 +318,7 @@ export class DataService {
             exampleSentence: 'ムカデ',
             translation: 'centipede',
             choices: ['mu', 'mo', 'mi', 'ma'],
-            display: ['ム','モ','ミ','マ']
+            display: ['ム', 'モ', 'ミ', 'マ']
         },
         {
             id: 34,
@@ -327,7 +327,7 @@ export class DataService {
             exampleSentence: 'メロン',
             translation: 'melon',
             choices: ['ma', 'me', 'mu', 'mo'],
-            display: ['マ','メ','ム','モ']
+            display: ['マ', 'メ', 'ム', 'モ']
         },
         {
             id: 35,
@@ -336,7 +336,7 @@ export class DataService {
             exampleSentence: 'モノレール',
             translation: 'monorail',
             choices: ['mu', 'mo', 'mi', 'me'],
-            display: ['ム','モ','ミ','メ']
+            display: ['ム', 'モ', 'ミ', 'メ']
         },
         {
             id: 36,
@@ -345,7 +345,7 @@ export class DataService {
             exampleSentence: 'ヤフー',
             translation: 'yahoo',
             choices: ['yu', 'yo', 'ya', 'a'],
-            display: ['ユ','ヨ','ヤ','ア']
+            display: ['ユ', 'ヨ', 'ヤ', 'ア']
         },
         {
             id: 37,
@@ -354,7 +354,7 @@ export class DataService {
             exampleSentence: 'ユニホーム',
             translation: 'uniform',
             choices: ['fu', 'ya', 'yo', 'yu'],
-            display: ['フ','ヤ','ヨ','ユ']
+            display: ['フ', 'ヤ', 'ヨ', 'ユ']
         },
         {
             id: 38,
@@ -363,7 +363,7 @@ export class DataService {
             exampleSentence: 'ヨット',
             translation: 'yacht',
             choices: ['ya', 'yo', 'yu', 'ha'],
-            display: ['ヤ','ヨ','ユ','ハ']
+            display: ['ヤ', 'ヨ', 'ユ', 'ハ']
         },
         {
             id: 39,
@@ -372,7 +372,7 @@ export class DataService {
             exampleSentence: 'ラーメン',
             translation: 'ramen',
             choices: ['ri', 'ru', 're', 'ra'],
-            display: ['リ','ル','レ','ラ']
+            display: ['リ', 'ル', 'レ', 'ラ']
         },
         {
             id: 40,
@@ -381,7 +381,7 @@ export class DataService {
             exampleSentence: 'リサイクル',
             translation: 'recycle',
             choices: ['ri', 'ra', 're', 'ro'],
-            display: ['リ','ラ','レ','ロ']
+            display: ['リ', 'ラ', 'レ', 'ロ']
         },
         {
             id: 41,
@@ -390,7 +390,7 @@ export class DataService {
             exampleSentence: 'ルイヴィトン',
             translation: 'louis vuitton',
             choices: ['ri', 'ru', 're', 'ra'],
-            display: ['リ','ル','レ','ラ']
+            display: ['リ', 'ル', 'レ', 'ラ']
         },
         {
             id: 42,
@@ -399,7 +399,7 @@ export class DataService {
             exampleSentence: 'レタス',
             translation: 'lettuce',
             choices: ['re', 'ra', 'ri', 'ro'],
-            display: ['レ','ラ','リ','ロ']
+            display: ['レ', 'ラ', 'リ', 'ロ']
         },
         {
             id: 43,
@@ -408,7 +408,7 @@ export class DataService {
             exampleSentence: 'ロボット',
             translation: 'robot',
             choices: ['ro', 'ru', 're', 'ra'],
-            display: ['ロ','ル','レ','ラ']
+            display: ['ロ', 'ル', 'レ', 'ラ']
         },
         {
             id: 44,
@@ -417,7 +417,7 @@ export class DataService {
             exampleSentence: 'ワイン',
             translation: 'wine',
             choices: ['wo', 'wa', 'he', 'n'],
-            display: ['ヲ','ワ','ヘ','ン']
+            display: ['ヲ', 'ワ', 'ヘ', 'ン']
         },
         {
             id: 45,
@@ -426,7 +426,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['wa', 'n', 'wo', 'mo'],
-            display: ['ワ','ン','ヲ','モ']
+            display: ['ワ', 'ン', 'ヲ', 'モ']
         },
         {
             id: 46,
@@ -435,7 +435,7 @@ export class DataService {
             exampleSentence: 'パン',
             translation: 'bread',
             choices: ['n', 'wo', 'wa', 'me'],
-            display: ['ン','ヲ','ワ','メ']
+            display: ['ン', 'ヲ', 'ワ', 'メ']
         },
         {
             id: 47,
@@ -444,7 +444,7 @@ export class DataService {
             exampleSentence: 'ガードマン',
             translation: 'guard',
             choices: ['gi', 'ga', 'gu', 'go'],
-            display: ['ギ','ガ','グ','ゴ']
+            display: ['ギ', 'ガ', 'グ', 'ゴ']
         },
         {
             id: 48,
@@ -453,7 +453,7 @@ export class DataService {
             exampleSentence: 'ギター',
             translation: 'guitar',
             choices: ['ga', 'gu', 'gi', 'go'],
-            display: ['ガ','グ','ギ','ゴ']
+            display: ['ガ', 'グ', 'ギ', 'ゴ']
         },
         {
             id: 49,
@@ -462,7 +462,7 @@ export class DataService {
             exampleSentence: 'グアム',
             translation: 'Guam',
             choices: ['ga', 'gi', 'go', 'gu'],
-            display: ['ガ','ギ','ゴ','グ']
+            display: ['ガ', 'ギ', 'ゴ', 'グ']
         },
         {
             id: 50,
@@ -471,7 +471,7 @@ export class DataService {
             exampleSentence: 'ゲーム',
             translation: 'game',
             choices: ['ga', 'ge', 'gi', 'go'],
-            display: ['ガ','ゲ','ギ','ゴ']
+            display: ['ガ', 'ゲ', 'ギ', 'ゴ']
         },
         {
             id: 51,
@@ -480,7 +480,7 @@ export class DataService {
             exampleSentence: 'ゴリラ',
             translation: 'gorilla',
             choices: ['go', 'ga', 'gi', 'ge'],
-            display: ['ゴ','ガ','ギ','ゲ']
+            display: ['ゴ', 'ガ', 'ギ', 'ゲ']
         },
         {
             id: 52,
@@ -489,7 +489,7 @@ export class DataService {
             exampleSentence: 'ザクロ',
             translation: 'pomegranate',
             choices: ['ji', 'za', 'ze', 'zu'],
-            display: ['ジ','ザ','ゼ','ズ']
+            display: ['ジ', 'ザ', 'ゼ', 'ズ']
         },
         {
             id: 53,
@@ -498,7 +498,7 @@ export class DataService {
             exampleSentence: 'ジンクス',
             translation: 'jinks',
             choices: ['za', 'zo', 'ji', 'ze'],
-            display: ['ザ','ゾ','ジ','ゼ']
+            display: ['ザ', 'ゾ', 'ジ', 'ゼ']
         },
         {
             id: 54,
@@ -507,7 +507,7 @@ export class DataService {
             exampleSentence: 'ズッキーニ',
             translation: 'zucchini',
             choices: ['ji', 'za', 'zu', 'zo'],
-            display: ['ジ','ザ','ズ','ゾ']
+            display: ['ジ', 'ザ', 'ズ', 'ゾ']
         },
         {
             id: 55,
@@ -516,7 +516,7 @@ export class DataService {
             exampleSentence: 'ゼロ',
             translation: 'zero',
             choices: ['ze', 'ji', 'zo', 'zu'],
-            display: ['ゼ','ジ','ゾ','ズ']
+            display: ['ゼ', 'ジ', 'ゾ', 'ズ']
         },
         {
             id: 56,
@@ -525,7 +525,7 @@ export class DataService {
             exampleSentence: 'ゾンビ',
             translation: 'zombie',
             choices: ['za', 'zo', 'zu', 'ji'],
-            display: ['ザ','ゾ','ズ','ジ']
+            display: ['ザ', 'ゾ', 'ズ', 'ジ']
         },
         {
             id: 57,
@@ -534,7 +534,7 @@ export class DataService {
             exampleSentence: 'ダンス',
             translation: 'dance',
             choices: ['de', 'ji', 'da', 'zu'],
-            display: ['デ','ヂ','ダ','ヅ']
+            display: ['デ', 'ヂ', 'ダ', 'ヅ']
         },
         {
             id: 58,
@@ -543,7 +543,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['zu', 'da', 'ji', 'do'],
-            display: ['ヅ','ダ','ヂ','ド']
+            display: ['ヅ', 'ダ', 'ヂ', 'ド']
         },
         {
             id: 59,
@@ -552,7 +552,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['da', 'zu', 'de', 'ji'],
-            display: ['ダ','ヅ','デ','ヂ']
+            display: ['ダ', 'ヅ', 'デ', 'ヂ']
         },
         {
             id: 60,
@@ -561,7 +561,7 @@ export class DataService {
             exampleSentence: 'デトロイト',
             translation: 'Detroit',
             choices: ['do', 'zu', 'da', 'de'],
-            display: ['ド','ズ','ダ', 'デ']
+            display: ['ド', 'ズ', 'ダ', 'デ']
         },
         {
             id: 61,
@@ -570,7 +570,7 @@ export class DataService {
             exampleSentence: 'ドル',
             translation: 'dollar',
             choices: ['da', 'do', 'de', 'zu'],
-            display: ['ダ','ド','デ','ヅ']
+            display: ['ダ', 'ド', 'デ', 'ヅ']
         },
         {
             id: 62,
@@ -579,7 +579,7 @@ export class DataService {
             exampleSentence: 'バナナ',
             translation: 'banana',
             choices: ['bi', 'bu', 'ba', 'be'],
-            display: ['ビ','ブ','バ','ベ']
+            display: ['ビ', 'ブ', 'バ', 'ベ']
         },
         {
             id: 63,
@@ -588,7 +588,7 @@ export class DataService {
             exampleSentence: 'ビ-ル',
             translation: 'beer',
             choices: ['ba', 'bi', 'bu', 'bo'],
-            display: ['バ','ビ','ブ','ボ']
+            display: ['バ', 'ビ', 'ブ', 'ボ']
         },
         {
             id: 64,
@@ -597,7 +597,7 @@ export class DataService {
             exampleSentence: 'ブログ',
             translation: 'blog',
             choices: ['bi', 'ba', 'be', 'bu'],
-            display: ['ビ','バ','ベ','ブ']
+            display: ['ビ', 'バ', 'ベ', 'ブ']
         },
         {
             id: 65,
@@ -606,7 +606,7 @@ export class DataService {
             exampleSentence: 'ベッド',
             translation: 'bed',
             choices: ['be', 'ba', 'bu', 'bi'],
-            display: ['ベ','バ','ブ','ビ']
+            display: ['ベ', 'バ', 'ブ', 'ビ']
         },
         {
             id: 66,
@@ -615,7 +615,7 @@ export class DataService {
             exampleSentence: 'ボクシング',
             translation: 'boxing',
             choices: ['bi', 'bo', 'ba', 'be'],
-            display: ['ビ','ボ','バ','ベ']
+            display: ['ビ', 'ボ', 'バ', 'ベ']
         },
         {
             id: 67,
@@ -624,7 +624,7 @@ export class DataService {
             exampleSentence: 'パスポート',
             translation: 'passport',
             choices: ['pu', 'pi', 'pa', 'pe'],
-            display: ['プ','ピ','パ','ペ']
+            display: ['プ', 'ピ', 'パ', 'ペ']
         },
         {
             id: 68,
@@ -633,7 +633,7 @@ export class DataService {
             exampleSentence: 'ピザ',
             translation: 'pizza',
             choices: ['pi', 'pa', 'pu', 'po'],
-            display: ['ピ','パ','プ','ポ']
+            display: ['ピ', 'パ', 'プ', 'ポ']
         },
         {
             id: 69,
@@ -642,7 +642,7 @@ export class DataService {
             exampleSentence: 'プリン',
             translation: 'pudding',
             choices: ['pi', 'pu', 'pa', 'pe'],
-            display: ['ピ','プ','パ','ペ']
+            display: ['ピ', 'プ', 'パ', 'ペ']
         },
         {
             id: 70,
@@ -651,7 +651,7 @@ export class DataService {
             exampleSentence: 'ペン',
             translation: 'pen',
             choices: ['pe', 'pa', 'pu', 'pi'],
-            display: ['ペ','パ','プ','ピ']
+            display: ['ペ', 'パ', 'プ', 'ピ']
         },
         {
             id: 71,
@@ -660,7 +660,7 @@ export class DataService {
             exampleSentence: 'ポケット',
             translation: 'pocket',
             choices: ['po', 'pe', 'pi', 'pu'],
-            display: ['ポ','ペ','ピ','プ']
+            display: ['ポ', 'ペ', 'ピ', 'プ']
         },
         {
             id: 72,
@@ -669,7 +669,7 @@ export class DataService {
             exampleSentence: 'キャベツ',
             translation: 'cabbage',
             choices: ['kyu', 'kyo', 'kya', 'ga'],
-            display: ['キュ','キョ','キャ','ガ']
+            display: ['キュ', 'キョ', 'キャ', 'ガ']
         },
         {
             id: 73,
@@ -678,7 +678,7 @@ export class DataService {
             exampleSentence: 'キューバ',
             translation: 'Cuba',
             choices: ['kyo', 'kya', 'pa', 'kyu'],
-            display: ['キョ','キャ','パ','キュ']
+            display: ['キョ', 'キャ', 'パ', 'キュ']
         },
         {
             id: 74,
@@ -687,7 +687,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['sha', 'kyo', 'kyu', 'kya'],
-            display: ['シャ','キョ','キュ','キャ']
+            display: ['シャ', 'キョ', 'キュ', 'キャ']
         },
         {
             id: 75,
@@ -696,7 +696,7 @@ export class DataService {
             exampleSentence: 'シャイ',
             translation: 'shy',
             choices: ['sho', 'sha', 'shu', 'kyo'],
-            display: ['ショ','シャ','シュ','ショ']
+            display: ['ショ', 'シャ', 'シュ', 'ショ']
         },
         {
             id: 76,
@@ -705,7 +705,7 @@ export class DataService {
             exampleSentence: 'シュークリーム',
             translation: 'creampuff',
             choices: ['shu', 'sho', 'sha', 'kya'],
-            display: ['シュ','ショ','シャ','シャ']
+            display: ['シュ', 'ショ', 'シャ', 'シャ']
         },
         {
             id: 77,
@@ -714,7 +714,7 @@ export class DataService {
             exampleSentence: 'ショッピング',
             translation: 'shopping',
             choices: ['kyu', 'sha', 'sho', 'shu'],
-            display: ['キュ','シャ','ショ','シュ']
+            display: ['キュ', 'シャ', 'ショ', 'シュ']
         },
         {
             id: 78,
@@ -723,7 +723,7 @@ export class DataService {
             exampleSentence: 'チャーハン',
             translation: 'fried rice',
             choices: ['kya', 'sha', 'cha', 'chu'],
-            display: ['キャ','シャ','チャ','チュ']
+            display: ['キャ', 'シャ', 'チャ', 'チュ']
         },
         {
             id: 79,
@@ -732,7 +732,7 @@ export class DataService {
             exampleSentence: 'チューリップ',
             translation: 'tulip',
             choices: ['cha', 'chu', 'cho', 'kya'],
-            display: ['チャ','チュ','チョ','キャ']
+            display: ['チャ', 'チュ', 'チョ', 'キャ']
         },
         {
             id: 80,
@@ -741,7 +741,7 @@ export class DataService {
             exampleSentence: 'チョコレート',
             translation: 'chocolate',
             choices: ['kyo', 'cho', 'chu', 'cha'],
-            display: ['キョ','チョ','チュ','チャ']
+            display: ['キョ', 'チョ', 'チュ', 'チャ']
         },
         {
             id: 81,
@@ -750,7 +750,7 @@ export class DataService {
             exampleSentence: 'ニャー',
             translation: 'meow',
             choices: ['cha', 'nya', 'nyu', 'nyo'],
-            display: ['チャ','ニャ','ニュ','ニョ']
+            display: ['チャ', 'ニャ', 'ニュ', 'ニョ']
         },
         {
             id: 82,
@@ -759,7 +759,7 @@ export class DataService {
             exampleSentence: 'ニューヨーク',
             translation: 'New York',
             choices: ['kyu', 'chu', 'nyu', 'nya'],
-            display: ['キュ','チュ','ニュ','ニャ']
+            display: ['キュ', 'チュ', 'ニュ', 'ニャ']
         },
         {
             id: 83,
@@ -768,7 +768,7 @@ export class DataService {
             exampleSentence: 'ニョッキ',
             translation: 'gnocchi',
             choices: ['kyo', 'nyo', 'nyu', 'cha'],
-            display: ['キョ','ニョ','ニュ','チャ']
+            display: ['キョ', 'ニョ', 'ニュ', 'チャ']
         },
         {
             id: 84,
@@ -777,7 +777,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['bya', 'byo', 'byu', 'cha'],
-            display: ['ビャ','ビョ','ビュ','チャ']
+            display: ['ビャ', 'ビョ', 'ビュ', 'チャ']
         },
         {
             id: 85,
@@ -786,7 +786,7 @@ export class DataService {
             exampleSentence: 'ビュッフェ',
             translation: 'buffet',
             choices: ['byo', 'byu', 'bya', 'kya'],
-            display: ['ビョ','ビュ','ビャ','キャ']
+            display: ['ビョ', 'ビュ', 'ビャ', 'キャ']
         },
         {
             id: 86,
@@ -795,7 +795,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['byu', 'bya', 'kyo', 'byo'],
-            display: ['ビュ','ビャ','キョ','ビョ']
+            display: ['ビュ', 'ビャ', 'キョ', 'ビョ']
         },
         {
             id: 87,
@@ -804,7 +804,7 @@ export class DataService {
             exampleSentence: 'ミャンマー',
             translation: 'Myanmar',
             choices: ['mya', 'bya', 'myo', 'myu'],
-            display: ['ミャ','ビャ','ミョ','ミュ']
+            display: ['ミャ', 'ビャ', 'ミョ', 'ミュ']
         },
         {
             id: 88,
@@ -813,7 +813,7 @@ export class DataService {
             exampleSentence: 'ミュージック',
             translation: 'music',
             choices: ['byu', 'myo', 'myu', 'mya'],
-            display: ['ビュ','ミョ','ミュ','ミャ']
+            display: ['ビュ', 'ミョ', 'ミュ', 'ミャ']
         },
         {
             id: 89,
@@ -822,7 +822,7 @@ export class DataService {
             exampleSentence: 'ミョウガ',
             translation: 'japanese ginger',
             choices: ['byo', 'myo', 'kyo', 'cho'],
-            display: ['ビョ','ミョ','キョ','チョ']
+            display: ['ビョ', 'ミョ', 'キョ', 'チョ']
         },
         {
             id: 90,
@@ -831,7 +831,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['ryo', 'rya', 'ryu', 'kyo'],
-            display: ['リョ','リャ','リュ','キョ']
+            display: ['リョ', 'リャ', 'リュ', 'キョ']
         },
         {
             id: 91,
@@ -840,7 +840,7 @@ export class DataService {
             exampleSentence: 'リュックサック',
             translation: 'backpack',
             choices: ['rya', 'ryu', 'cho', 'ryo'],
-            display: ['リャ','リュ','チョ','リョ']
+            display: ['リャ', 'リュ', 'チョ', 'リョ']
         },
         {
             id: 92,
@@ -849,7 +849,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['ryo', 'rya', 'ryu', 'kya'],
-            display: ['リョ','リャ','リュ','キャ']
+            display: ['リョ', 'リャ', 'リュ', 'キャ']
         },
         {
             id: 93,
@@ -858,7 +858,7 @@ export class DataService {
             exampleSentence: 'ギャラクシー',
             translation: 'galaxy',
             choices: ['gyo', 'gyu', 'gya', 'cha'],
-            display: ['ギョ','ギュ','ギャ','チャ']
+            display: ['ギョ', 'ギュ', 'ギャ', 'チャ']
         },
         {
             id: 94,
@@ -867,7 +867,7 @@ export class DataService {
             exampleSentence: 'フィギュア',
             translation: 'figure',
             choices: ['gyu', 'gyo', 'gya', 'kyo'],
-            display: ['ギュ','ギョ','ギャ','キョ']
+            display: ['ギュ', 'ギョ', 'ギャ', 'キョ']
         },
         {
             id: 95,
@@ -876,7 +876,7 @@ export class DataService {
             exampleSentence: 'ギョーザ',
             translation: 'gyoza',
             choices: ['gyo', 'gya', 'gyu', 'ryo'],
-            display: ['ギョ','ギャ','ギュ','リョ']
+            display: ['ギョ', 'ギャ', 'ギュ', 'リョ']
         },
         {
             id: 96,
@@ -885,7 +885,7 @@ export class DataService {
             exampleSentence: 'ジャパン',
             translation: 'Japan',
             choices: ['ja', 'jo', 'ju', 'rya'],
-            display: ['ジャ','ジョ','ジュ','リャ']
+            display: ['ジャ', 'ジョ', 'ジュ', 'リャ']
         },
         {
             id: 97,
@@ -894,7 +894,7 @@ export class DataService {
             exampleSentence: 'ジュース',
             translation: 'juice',
             choices: ['jo', 'ju', 'ja', 'kyo'],
-            display: ['ジョ','ジュ','ジャ','キョ']
+            display: ['ジョ', 'ジュ', 'ジャ', 'キョ']
         },
         {
             id: 98,
@@ -903,7 +903,7 @@ export class DataService {
             exampleSentence: 'ジョーク',
             translation: 'joke',
             choices: ['ja', 'jo', 'ju', 'ryu'],
-            display: ['ジャ','ジョ','ジュ','リュ']
+            display: ['ジャ', 'ジョ', 'ジュ', 'リュ']
         },
         {
             id: 99,
@@ -912,7 +912,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['hyo', 'hya', 'hyu', 'rya'],
-            display: ['ヒョ','ヒャ','ヒュ','リャ']
+            display: ['ヒョ', 'ヒャ', 'ヒュ', 'リャ']
         },
         {
             id: 100,
@@ -921,7 +921,7 @@ export class DataService {
             exampleSentence: 'ヒューストン',
             translation: 'Houston',
             choices: ['hyu', 'hyo', 'hya', 'ryu'],
-            display: ['ヒュ','ヒョ','ヒャ','リュ']
+            display: ['ヒュ', 'ヒョ', 'ヒャ', 'リュ']
         },
         {
             id: 101,
@@ -930,7 +930,7 @@ export class DataService {
             exampleSentence: 'ヒョウ',
             translation: 'panther',
             choices: ['hya', 'hyo', 'hyu', 'cho'],
-            display: ['ヒャ','ヒョ','ヒュ','チョ']
+            display: ['ヒャ', 'ヒョ', 'ヒュ', 'チョ']
         },
         {
             id: 102,
@@ -939,7 +939,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['pyu', 'pya', 'pyo', 'ryo'],
-            display: ['ピュ','ピャ','ピョ','リョ']
+            display: ['ピュ', 'ピャ', 'ピョ', 'リョ']
         },
         {
             id: 103,
@@ -948,7 +948,7 @@ export class DataService {
             exampleSentence: 'コンピューター',
             translation: 'computer',
             choices: ['pya', 'pyo', 'pyu', 'hyo'],
-            display: ['ピャ','ピョ','ピュ','ヒョ']
+            display: ['ピャ', 'ピョ', 'ピュ', 'ヒョ']
         },
         {
             id: 104,
@@ -957,7 +957,7 @@ export class DataService {
             exampleSentence: 'ピョンヤン',
             translation: 'pyongyang',
             choices: ['pyo', 'ryo', 'cho', 'kyo'],
-            display: ['ピョ','リョ','チョ','キョ']
+            display: ['ピョ', 'リョ', 'チョ', 'キョ']
         },
         {
             id: 105,
@@ -966,7 +966,7 @@ export class DataService {
             exampleSentence: 'ヴャンガード',
             translation: 'vanguard',
             choices: ['va', 've', 'vo', 'vi'],
-            display: ['ヴァ','ヴェ','ヴォ','ヴィ']
+            display: ['ヴァ', 'ヴェ', 'ヴォ', 'ヴィ']
         },
         {
             id: 106,
@@ -975,7 +975,7 @@ export class DataService {
             exampleSentence: 'ヴィクトリア',
             translation: 'Victoria',
             choices: ['ve', 'vo', 'va', 'vi'],
-            display: ['ヴェ','ヴォ','ヴァ','ヴィ']
+            display: ['ヴェ', 'ヴォ', 'ヴァ', 'ヴィ']
         },
         {
             id: 107,
@@ -984,7 +984,7 @@ export class DataService {
             exampleSentence: '',
             translation: '',
             choices: ['ve', 'va', 'vi', 'vo'],
-            display: ['ヴェ','ヴァ','ヴィ','ヴォ']
+            display: ['ヴェ', 'ヴァ', 'ヴィ', 'ヴォ']
         },
         {
             id: 108,
@@ -993,7 +993,7 @@ export class DataService {
             exampleSentence: 'ヴォーカル',
             translation: 'vocal',
             choices: ['va', 'vo', 've', 'vi'],
-            display: ['ヴァ','ヴォ','ヴェ','ヴィ']
+            display: ['ヴァ', 'ヴォ', 'ヴェ', 'ヴィ']
       },
     ]
   );
